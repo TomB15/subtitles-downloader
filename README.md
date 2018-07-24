@@ -1,2 +1,7 @@
-# subtitles-downloader
-Script for downloading subtitles using the terminal.
+SUBTITLES DOWNLOADER
+===
+
+This program helps you to download subtitles from https://www.opensubtitles.org.
+
+Prerequisites: curl, jq 
+
